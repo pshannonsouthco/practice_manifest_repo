@@ -1,0 +1,49 @@
+{
+    "firmware_version":[
+        {
+            "name":"Rev E.12",
+            "manifest":{
+                "compatible_fw":[
+                    "Rev E",
+                    "Rev D"
+                ],
+                "compatible_hw":[
+                    "",
+                    "EA-PCA-018-10"
+                ],
+                "dfu_update":{
+                    "version":"Rev C.2",
+                    "filename":"OTA_EA-PCA-018-10-2_DFU_revAtoC.2.zip",
+                    "url":"https://github.com/pshannonsouthco/emptyRepo/raw/refs/heads/main/OTA_EA-PCA-018-10-2_OTA_RevAtoC.2.zip"
+                },
+                "app_update":{
+                    "version":"Rev C.2",
+                    "filename":"OTA_EA-PCA-018-10-2_APP_revE.12.zip",
+                    "url":"https://github.com/pshannonsouthco/emptyRepo/raw/refs/heads/main/OTA_EA-PCA-018-10-2_APP_revE.12.zip"
+                }
+            }
+        },
+        {
+            "name":"Rev E.12",
+            "manifest":{
+                "compatible_fw":[
+                    "Boot Rev C.2",
+                    "Rev E.12"
+                ],
+                "compatible_hw":[
+                    "EA-PCA-018-10"
+                ],
+                "dfu_update":{
+                    "version":"",
+                    "filename":"",
+                    "url":""
+                },
+                "app_update":{
+                    "version":"Rev C.2",
+                    "filename":"OTA_EA-PCA-018-10-2_APP_revE.12.zip",
+                    "url":"https://github.com/pshannonsouthco/emptyRepo/raw/refs/heads/main/OTA_EA-PCA-018-10-2_APP_revE.12.zip"
+                }
+            }
+        }
+    ]
+}
