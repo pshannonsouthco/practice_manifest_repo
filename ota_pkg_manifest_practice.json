@@ -1,4 +1,10 @@
 {
+    "up_to_date":[
+        {
+            "model":"EA-PCA-018-10"
+            "latest_rev":"Rev E.12"
+        },
+    ],
     "firmware_version":[
         {
             "name":"Rev E.12",
